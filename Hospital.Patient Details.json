@@ -1,0 +1,152 @@
+[
+  {
+    "_id": {
+      "$oid": "65bd38f6c220d504863351e4"
+    },
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "date of birth": "1990-05-23",
+    "gender": "female",
+    "contact number": "1234567890",
+    "address": {
+      "street": "Sunset Blvd",
+      "district": "Los Angeles",
+      "state": "California"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bd38f6c220d504863351e5"
+    },
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "date of birth": "1985-08-15",
+    "gender": "male",
+    "contact number": "9876543210",
+    "address": {
+      "street": "Main Street",
+      "district": "New York",
+      "state": "New York"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bd38f6c220d504863351e6"
+    },
+    "name": "Eva Davis",
+    "email": "eva@example.com",
+    "date of birth": "1993-02-10",
+    "gender": "female",
+    "contact number": "5551112233",
+    "address": {
+      "street": "Maple Avenue",
+      "district": "Chicago",
+      "state": "Illinois"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bd38f6c220d504863351e7"
+    },
+    "name": "Charlie Brown",
+    "email": "charlie@example.com",
+    "date of birth": "1988-11-30",
+    "gender": "male",
+    "contact number": "8765432109",
+    "address": {
+      "street": "Oak Street",
+      "district": "San Francisco",
+      "state": "California"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bd38f6c220d504863351e8"
+    },
+    "name": "Grace Taylor",
+    "email": "grace@example.com",
+    "date of birth": "1995-06-18",
+    "gender": "female",
+    "contact number": "4447778899",
+    "address": {
+      "street": "Cedar Lane",
+      "district": "Seattle",
+      "state": "Washington"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bd38f6c220d504863351e9"
+    },
+    "name": "David Miller",
+    "email": "david@example.com",
+    "date of birth": "1982-04-05",
+    "gender": "male",
+    "contact number": "9993335555",
+    "address": {
+      "street": "Pine Street",
+      "district": "Boston",
+      "state": "Massachusetts"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bd38f6c220d504863351ea"
+    },
+    "name": "Olivia White",
+    "email": "olivia@example.com",
+    "date of birth": "1998-09-20",
+    "gender": "female",
+    "contact number": "6662224444",
+    "address": {
+      "street": "Cherry Avenue",
+      "district": "Denver",
+      "state": "Colorado"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bd38f6c220d504863351eb"
+    },
+    "name": "Frank Johnson",
+    "email": "frank@example.com",
+    "date of birth": "1980-12-12",
+    "gender": "male",
+    "contact number": "1110009999",
+    "address": {
+      "street": "Walnut Street",
+      "district": "Philadelphia",
+      "state": "Pennsylvania"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bd38f6c220d504863351ec"
+    },
+    "name": "Sophia Lee",
+    "email": "sophia@example.com",
+    "date of birth": "1996-03-25",
+    "gender": "female",
+    "contact number": "7778886666",
+    "address": {
+      "street": "Elm Street",
+      "district": "Dallas",
+      "state": "Texas"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65bd38f6c220d504863351ed"
+    },
+    "name": "Ryan Davis",
+    "email": "ryan@example.com",
+    "date of birth": "1987-07-08",
+    "gender": "male",
+    "contact number": "3335557777",
+    "address": {
+      "street": "Sycamore Lane",
+      "district": "Houston",
+      "state": "Texas"
+    }
+  }
+]
