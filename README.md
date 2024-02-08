@@ -25,13 +25,3 @@ Welcome to the Hospital Management System project! This system is designed to st
 ### 7. Exit
    - Gracefully exit the system when the tasks are completed.
 
-## Getting Started
-
-Follow these steps to get the Hospital Management System up and running on your local machine.
-
-### Prerequisites
-
-- Ensure you have [Python](https://www.python.org/downloads/) installed.
-- Install any necessary dependencies by running:
-  ```bash
-  pip install -r requirements.txt
